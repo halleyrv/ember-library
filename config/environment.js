@@ -9,10 +9,10 @@ module.exports = function(environment) {
     
     ////////////// Firebase ////////////
     firebase: {
-      apiKey: "AIzaSyDNZY6KGmIM8lR2CgXlqzjCqoPzm4GuPA4",
-      authDomain: "ember-firebase-63967.firebaseapp.com",
-      databaseURL: "https://ember-firebase-63967.firebaseio.com",
-      storageBucket: "",
+       apiKey: 'xyz',
+      authDomain: 'YOUR-FIREBASE-APP.firebaseapp.com',
+      databaseURL: 'https://YOUR-FIREBASE-APP.firebaseio.com',
+      storageBucket: 'YOUR-FIREBASE-APP.appspot.com',
     },
 
     // if using ember-cli-content-security-policy
